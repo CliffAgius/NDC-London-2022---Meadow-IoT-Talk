@@ -19,7 +19,7 @@ for setting up your new board the instructions on the Getting started sometimes 
 
 The robot are files can be used to print your very own to move around this is best printed in PLA and you just need SG90 servo's like these - [SG90 Servo](https://www.amazon.co.uk/ARCELI-Airplane-Accessories-Arduino-Helicopter/dp/B07MY2Y253/ref=sr_1_5?crid=18GVRGA7DRGY8&keywords=sg90&qid=1652171728&sprefix=sg90%2Caps%2C97&sr=8-5)
 
-    The Robot arm design is a simplified version of this project from Thingyverse to enable quicker and simpler print and build - https://www.thingiverse.com/thing:1684471
+`The Robot arm design is a simplified version of this project from Thingyverse to enable quicker and simpler print and build - https://www.thingiverse.com/thing:1684471 `
 
 If you want to know how to build the Robot arm to my son shows how it's done here on YouTube - [https://www.youtube.com/watch?v=Gk84dhThmjY](https://www.youtube.com/watch?v=Gk84dhThmjY)
 
