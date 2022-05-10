@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeadowApplication1", "MeadowApplication1\MeadowApplication1.csproj", "{F6840F05-F8CF-4559-A244-B821E8EE4EDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6840F05-F8CF-4559-A244-B821E8EE4EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6840F05-F8CF-4559-A244-B821E8EE4EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6840F05-F8CF-4559-A244-B821E8EE4EDB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F6840F05-F8CF-4559-A244-B821E8EE4EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6840F05-F8CF-4559-A244-B821E8EE4EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6840F05-F8CF-4559-A244-B821E8EE4EDB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B62A24FB-DEB7-45C4-BF95-D0E68648B517}
+	EndGlobalSection
+EndGlobal

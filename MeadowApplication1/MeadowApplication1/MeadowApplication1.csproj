@@ -1,0 +1,14 @@
+﻿<Project Sdk="Meadow.Sdk/1.1.0">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+    <OutputType>Exe</OutputType>
+    <AssemblyName>App</AssemblyName>
+    <StartupObject>MeadowApplication1.Program</StartupObject>
+    <UserSecretsId>43c31993-755e-4429-9cef-2f7307bb8298</UserSecretsId>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Meadow.F7" Version="0.*" />
+    <PackageReference Include="Meadow.Foundation" Version="0.*" />
+  </ItemGroup>
+</Project>
