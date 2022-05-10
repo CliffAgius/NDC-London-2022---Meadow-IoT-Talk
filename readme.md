@@ -22,3 +22,11 @@ The robot are files can be used to print your very own to move around this is be
     The Robot arm design is a simplified version of this project from Thingyverse to enable quicker and simpler print and build - https://www.thingiverse.com/thing:1684471
 
 If you want to know how to build the Robot arm to my son shows how it's done here on YouTube - [https://www.youtube.com/watch?v=Gk84dhThmjY](https://www.youtube.com/watch?v=Gk84dhThmjY)
+
+# Set-up Azure IoT Hub
+
+As the end of my talk was rudely interrupted by the Police, fire alarms and car bombs you would have missed how to set-up an Azure IoT Hub.
+
+The docs are here: [https://docs.microsoft.com/azure/iot-hub/?WT.mc_id=IoT-MVP-5003764](https://docs.microsoft.com/azure/iot-hub/?WT.mc_id=IoT-MVP-5003764)
+
+and I have a blog post here that explains it for the ESP32 and NanoFramework but the process is very similar - [https://www.cliffordagius.co.uk/post/connectesp32toiothub/](https://www.cliffordagius.co.uk/post/connectesp32toiothub/)
